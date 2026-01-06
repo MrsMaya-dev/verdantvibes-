@@ -2,6 +2,7 @@
 # A = 24
 # B = 45
 # RESULT = A+B
+
 # print(A+B)
 # NAME = input("ENTER YOUR NAME :  ")
 # BIRTH_YEAR = int(input("your birth year : "))
@@ -168,3 +169,30 @@
 
 # marks = [67.1,67.2,63.3,63.4,65.5,66.6,67.8,68,9]
 # print(marks[2:6])
+
+# list = [1,2,3,4,5,6,7,8,9]
+# list.append(10)
+# print(list)
+
+# numbers = [1,2,3,4,5,6,7,8,9]
+# numbers.append(10)
+# print(numbers)
+
+# list = [1,2,3,4,5,6,7,8,9]
+# list.sort(reverse= True)
+# print(list)
+
+# list = [1,2,3,4,5,6,7,8,9]
+# list.insert(1,5)
+# print(list)
+
+# list = [1,2,3,1,2,3]
+# list.remove(1)
+# print(list)
+
+# list = [1,2,3,1,2,3]
+# list.pop(2)
+# print(list)
+
+# tup = (6,7,8,9,2,3,4,5)
+# print(tup[3])

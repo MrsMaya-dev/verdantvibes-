@@ -196,3 +196,16 @@
 
 # tup = (6,7,8,9,2,3,4,5)
 # print(tup[3])
+
+# numbers = [1, 2, 3]
+# numbers.append(4)
+# print(numbers)
+
+# movies = []
+# mov1 = input("enter first movie name : ")
+# mov2 = input("enter 2nd movie name : ")
+# mov3 = input("enter 3rd movie name: ")
+# movies.append(mov1)
+# movies.append(mov2)
+# movies.append(mov3)
+# print(movies)
